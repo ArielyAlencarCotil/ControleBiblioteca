@@ -6,3 +6,6 @@ Cadastro e organização do acervo:permite registrar livros, autores, categorias
 Empréstimos e devoluções:controla quais livros estão emprestados, para quem e as respectivas datas de devolução.
 4-
 Controle de reservas e atrasos:permite reservar livros e acompanhar empréstimos em atraso.
+
+5-
+Renovar Emprestimo: permite a renovação do emprestimo de um livro, aumentando o prazo para devolução

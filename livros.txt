@@ -17,3 +17,11 @@ Ano Lançamento:1960
 Título:Memórias de Martha
 Autor:Júlia Lopes de Almeida
 Ano Lançamento:1899
+
+Título:Crime e Castigo
+Autor:Fiódor Dostoiévski
+Ano Lançamento:1866
+
+Título:A Metamorfose
+Autor:Franz Kafka
+Ano Lançamento:1915
