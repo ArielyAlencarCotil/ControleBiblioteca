@@ -1,0 +1,8 @@
+1-
+Cadastro de usuários:registra alunos, professores e demais usuários da biblioteca.
+2-
+Cadastro e organização do acervo:permite registrar livros, autores, categorias, exemplares e localização.
+3-
+Empréstimos e devoluções:controla quais livros estão emprestados, para quem e as respectivas datas de devolução.
+4-
+Controle de reservas e atrasos:permite reservar livros e acompanhar empréstimos em atraso.
